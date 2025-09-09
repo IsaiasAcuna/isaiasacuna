@@ -38,3 +38,13 @@
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/DescoGood">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=DescoGood&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
